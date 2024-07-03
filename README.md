@@ -2,7 +2,8 @@
    ```bash
    pip install -r requirements.txt
    ```
-2. Use `main.py`
+2. Update `USER` and `PASSWORD` in `sender.py` to login to your email account.
+3. Use `main.py`
    ```plain
     Usage: main.py [OPTIONS]
     
